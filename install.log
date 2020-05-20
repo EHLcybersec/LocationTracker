@@ -1,0 +1,38 @@
+Ign:2 https://dl.bintray.com/grimler/game-packages-24 games InRelease
+Ign:3 https://dl.bintray.com/grimler/science-packages-24 science InRelease
+Get:4 https://dl.bintray.com/grimler/game-packages-24 games Release [5344 B]
+Hit:4 https://dl.bintray.com/grimler/game-packages-24 games Release
+Ign:1 https://grimler.se/termux-packages-24 stable InRelease
+Hit:5 https://grimler.se/termux-packages-24 stable Release
+Get:7 https://dl.bintray.com/grimler/science-packages-24 science Release [5348 B]
+Hit:7 https://dl.bintray.com/grimler/science-packages-24 science Release
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python is already the newest version (3.8.2-2).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+php is already the newest version (7.4.5).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+openssh is already the newest version (8.2p1-6).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Collecting requests
+  Downloading https://files.pythonhosted.org/packages/1a/70/1935c770cb3be6e3a8b78ced23d7e0f3b187f5cbfab4749523ed65d7c9b1/requests-2.23.0-py2.py3-none-any.whl (58kB)
+Collecting idna<3,>=2.5 (from requests)
+  Downloading https://files.pythonhosted.org/packages/89/e3/afebe61c546d18fb1709a61bee788254b40e736cff7271c7de5de2dc4128/idna-2.9-py2.py3-none-any.whl (58kB)
+Collecting chardet<4,>=3.0.2 (from requests)
+  Downloading https://files.pythonhosted.org/packages/bc/a9/01ffebfb562e4274b6487b4bb1ddec7ca55ec7510b22e4c51f14098443b8/chardet-3.0.4-py2.py3-none-any.whl (133kB)
+Collecting urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 (from requests)
+  Downloading https://files.pythonhosted.org/packages/e1/e5/df302e8017440f111c11cc41a6b432838672f5a70aa29227bf58149dc72f/urllib3-1.25.9-py2.py3-none-any.whl (126kB)
+Collecting certifi>=2017.4.17 (from requests)
+  Downloading https://files.pythonhosted.org/packages/57/2b/26e37a4b034800c960a00c4e1b3d9ca5d7014e983e6e729e33ea2f36426c/certifi-2020.4.5.1-py2.py3-none-any.whl (157kB)
+Installing collected packages: idna, chardet, urllib3, certifi, requests
+Successfully installed certifi-2020.4.5.1 chardet-3.0.4 idna-2.9 requests-2.23.0 urllib3-1.25.9
+WARNING: You are using pip version 19.2.3, however version 20.0.2 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.

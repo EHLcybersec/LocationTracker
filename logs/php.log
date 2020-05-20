@@ -1,0 +1,49 @@
+[Sat Apr 25 09:58:26 2020] PHP 7.4.5 Development Server (http://0.0.0.0:8080) started
+[Sat Apr 25 09:58:29 2020] 127.0.0.1:37232 Accepted
+[Sat Apr 25 09:58:29 2020] 127.0.0.1:37232 [200]: (null) /index.html
+[Sat Apr 25 09:58:29 2020] 127.0.0.1:37232 Closing
+[Sat Apr 25 09:59:16 2020] 127.0.0.1:37288 Accepted
+[Sat Apr 25 09:59:16 2020] 127.0.0.1:37288 [200]: (null) /nearyou
+[Sat Apr 25 09:59:16 2020] 127.0.0.1:37288 Closing
+[Sat Apr 25 09:59:16 2020] 127.0.0.1:37304 Accepted
+[Sat Apr 25 09:59:16 2020] 127.0.0.1:37304 [200]: (null) /css/main.css
+[Sat Apr 25 09:59:16 2020] 127.0.0.1:37304 Closing
+[Sat Apr 25 09:59:17 2020] 127.0.0.1:37306 Accepted
+[Sat Apr 25 09:59:17 2020] 127.0.0.1:37306 [200]: (null) /js/location.js
+[Sat Apr 25 09:59:17 2020] 127.0.0.1:37306 Closing
+[Sat Apr 25 09:59:17 2020] 127.0.0.1:37312 Accepted
+[Sat Apr 25 09:59:17 2020] 127.0.0.1:37314 Accepted
+[Sat Apr 25 09:59:17 2020] 127.0.0.1:37316 Accepted
+[Sat Apr 25 09:59:17 2020] 127.0.0.1:37314 [200]: (null) /js/warpspeed.min.js
+[Sat Apr 25 09:59:17 2020] 127.0.0.1:37314 Closing
+[Sat Apr 25 09:59:17 2020] 127.0.0.1:37312 [200]: (null) /js/info.js
+[Sat Apr 25 09:59:17 2020] 127.0.0.1:37312 Closing
+[Sat Apr 25 09:59:17 2020] 127.0.0.1:37316 [200]: (null) /js/main.js
+[Sat Apr 25 09:59:17 2020] 127.0.0.1:37316 Closing
+[Sat Apr 25 09:59:18 2020] 127.0.0.1:37320 Accepted
+[Sat Apr 25 09:59:18 2020] 127.0.0.1:37320 [200]: (null) /nearyou
+[Sat Apr 25 09:59:18 2020] 127.0.0.1:37320 Closing
+[Sat Apr 25 09:59:18 2020] 127.0.0.1:37330 Accepted
+[Sat Apr 25 09:59:18 2020] 127.0.0.1:37332 Accepted
+[Sat Apr 25 09:59:18 2020] 127.0.0.1:37332 [200]: (null) /css/main.css
+[Sat Apr 25 09:59:18 2020] 127.0.0.1:37330 [200]: (null) /js/main.js
+[Sat Apr 25 09:59:18 2020] 127.0.0.1:37332 Closing
+[Sat Apr 25 09:59:18 2020] 127.0.0.1:37330 Closing
+[Sat Apr 25 09:59:19 2020] 127.0.0.1:37334 Accepted
+[Sat Apr 25 09:59:19 2020] 127.0.0.1:37334 [200]: (null) /js/location.js
+[Sat Apr 25 09:59:19 2020] 127.0.0.1:37334 Closing
+[Sat Apr 25 09:59:19 2020] 127.0.0.1:37336 Accepted
+[Sat Apr 25 09:59:19 2020] 127.0.0.1:37336 [200]: (null) /js/info.js
+[Sat Apr 25 09:59:19 2020] 127.0.0.1:37336 Closing
+[Sat Apr 25 09:59:19 2020] 127.0.0.1:37338 Accepted
+[Sat Apr 25 09:59:19 2020] 127.0.0.1:37338 [200]: (null) /js/warpspeed.min.js
+[Sat Apr 25 09:59:19 2020] 127.0.0.1:37338 Closing
+[Sat Apr 25 09:59:23 2020] 127.0.0.1:37344 Accepted
+[Sat Apr 25 09:59:23 2020] 127.0.0.1:37344 [200]: POST /php/info.php
+[Sat Apr 25 09:59:23 2020] 127.0.0.1:37344 Closing
+[Sat Apr 25 09:59:44 2020] 127.0.0.1:37348 Accepted
+[Sat Apr 25 09:59:44 2020] 127.0.0.1:37348 [200]: POST /php/result.php
+[Sat Apr 25 09:59:44 2020] 127.0.0.1:37348 Closing
+[Sat Apr 25 09:59:49 2020] 127.0.0.1:37354 Accepted
+[Sat Apr 25 09:59:49 2020] 127.0.0.1:37354 [200]: POST /php/result.php
+[Sat Apr 25 09:59:49 2020] 127.0.0.1:37354 Closing
